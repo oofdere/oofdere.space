@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ document.title }}</title>
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+    <div id="container">
+        <div id="content">
+            <div id="content-text" class="text">
+                <h1>{{ document.title }}</h1>
+                {{ content }}
+            </div>
+            <div id="navigation">
+                <details>
+                    <summary><span class="details-open">X</span><span class="details-closed">☰</span></summary>
+                    <ul class="vertical-nav align-right">
+                        <li class="nav-element"><a href="blog.html">blog</a></li>
+                        <li class="nav-element"><a href="video.html">video</a></li>
+                        <li class="nav-element"><a href="projects.html">projects</a></li>
+                        <li class="nav-element"><a href="contact.html">contact</a></li>
+                        <li class="nav-element"><a href="social.html">social</a></li>
+                        <li class="nav-element"><a href="about.html">about</a></li>
+                    </ul>
+                </details>
+            </div>
+        </div>
+    </div>    
+</body>
+</html>
