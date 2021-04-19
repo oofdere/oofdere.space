@@ -7,7 +7,7 @@
 #navigation {
     position: fixed;
     bottom: 1%;
-    left: 1%;
+    right: 1%;
     background-color: white;
     padding: 1%;
 }
