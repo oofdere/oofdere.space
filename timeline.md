@@ -29,29 +29,29 @@ permalink: /timeline.html
  - Start working on horror film screening project.
  - Start and complete [CS50W](https://cs50.harvard.edu/web/2020/) or [CS50G](https://cs50.harvard.edu/games/2018/).
  - Start and complete [Nand2Tetris part 1](https://www.coursera.org/learn/build-a-computer).
- - Start work on Y***.
- - Create F****.
+ - Start work on Y███.
+ - Create F████.
  - Incorporate an LLC.
 
 ## October
  - Focus on horror film screening.
  - Start and complete CS50AI, Math for Programmers, and/or 3D Math Primer for Graphics and Game Development.
  - Start and complete [Nand2Tetris part 2](https://www.coursera.org/learn/nand2tetris2).
- - Create an MVP for M***** and C******.
+ - Create an MVP for M█████ and C██████.
  - Start prototyping Senchou.
    - Learn VHDL/Verilog.
    - Get FPGA board(s).
    - Get things that output obscure video formats.
 
 ## November
- - Release Y*** in an open beta.
- - Seek funding for S****.
- - Create and release P*****.
- - Expand F**** into a SaaS CG solution.
+ - Release Y███ in an open beta.
+ - Seek funding for S████.
+ - Create and release P█████.
+ - Expand F████ into a SaaS CG solution.
 
 ## December
  - Create portfolio.
- - Hype up P*****.
+ - Hype up P█████.
  - Start manufacturing Senchou boards.
  - Rest up.
 
@@ -78,7 +78,7 @@ permalink: /timeline.html
 # 2023
 ## Winter
  - Get more content for PSSIWERTFL.
- - Release PSSIWERTFL P***** and P*****.
+ - Release PSSIWERTFL P█████ and P█████.
 
 ## Rest of the year
  - Prepare for phase 2 of PSSIWERTFL, which has not even been named yet.
