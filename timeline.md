@@ -13,7 +13,7 @@ permalink: /timeline.html
 
 # 2021
 ## August
- - Complete [CS50x](https://cs50.harvard.edu/x/2021/), excluding the final project. ![Progress](https://progress-bar.dev/50/)
+ - Complete [CS50x](https://cs50.harvard.edu/x/2021/), excluding the final project. ![Progress](https://progress-bar.dev/58/)
  - Create an alpha version of Heatchess.
  - Create new graphics for KVCM.
  - Complete [kusijisho](kusojisho.moe).
