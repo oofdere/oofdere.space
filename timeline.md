@@ -52,7 +52,7 @@ permalink: /timeline.html
 ## December
  - Create portfolio.
  - Hype up P█████.
- - Start manufacturing Senchou boards.
+ - Start manufacturing S██████ boards.
  - Rest up.
 
 # 2022
