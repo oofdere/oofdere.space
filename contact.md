@@ -3,6 +3,8 @@ layout: content
 title: Contact
 heading: Contact
 permalink: /contact.html
+description: "summary: oofdere@hey.com"
+squarethumb: contact.png
 ---
 
 Send an email to [oofdere@hey.com](mailto:oofdere@hey.com) or DM [@oofdere](https://twitter.com/oofdere) on Twitter. For professional communications, you may also message me on [LinkedIn](https://www.linkedin.com/in/oofd/).

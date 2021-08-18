@@ -3,6 +3,8 @@ layout: content
 title: About me
 heading: Hi! I exist!
 permalink: /about.html
+description: Hi! I exist!
+squarethumb: things.png
 ---
 
 That's about all I really have to say about myself, so have an infodump:

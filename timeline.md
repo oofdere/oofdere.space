@@ -3,6 +3,8 @@ layout: content
 title: Timeline
 heading: Personal Timeline
 permalink: /timeline.html
+description: someone hold me accountable
+squarethumb: time.png
 ---
 
 [**2021**](#2021) - [August](#august) [September](#september) [October](#october) [November](#november) [December](#december)

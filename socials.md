@@ -3,6 +3,8 @@ layout: content
 title: Socials
 heading: Social Media Accounts
 permalink: /social.html
+description: description goes here
+squarethumb: scroll.png
 ---
 
  - [Twitter](https://twitter.com/oofdere) (I mainly use Twitter to look at and retweet art, and rarely engage with people on it, so don't follow for content)

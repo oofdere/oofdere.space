@@ -1,6 +1,8 @@
 ---
 layout: content
 title: Projects
+description: nothing to see here, move along
+squarethumb: things.png
 ---
 
 ## Current Projects
