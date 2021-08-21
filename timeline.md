@@ -39,7 +39,7 @@ squarethumb: time.png
  - Start and complete CS50AI, Math for Programmers, and/or 3D Math Primer for Graphics and Game Development.
  - Start and complete [Nand2Tetris part 2](https://www.coursera.org/learn/nand2tetris2). <progress max="7" value="0"></progress>
  - Create an MVP for M█████ and C██████.
- - Start prototyping Senchou.
+ - Start prototyping S██████.
    - Learn VHDL/Verilog.
    - Get FPGA board(s).
    - Get things that output obscure video formats.
