@@ -20,7 +20,7 @@ Just for clarity, if I complete one or two of these that is a successful month, 
  - Complete [CS50x](https://cs50.harvard.edu/x/2021/), excluding the final project. <progress max="12" value="8"></progress>
  - Start and complete [CS50W](https://cs50.harvard.edu/web/2020/). <progress max="8" value="0"></progress>
  - Create an alpha version of [Heatchess](https://github.com/oofdere/Heatchess). <progress max="100" value="30"></progress>
- - Create new graphics for KVCM.
+ - ~~Create new graphics for KVCM.~~
  - Complete [kusojisho](kusojisho.moe).
  - Start blog.
  - Start work on F████.
