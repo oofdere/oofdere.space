@@ -7,6 +7,8 @@ description: someone hold me accountable
 squarethumb: time.png
 ---
 
+> ⚠ This page is extremely out of date. An update is in progress but in the meantime I've delisted it from navigation.
+
 Just for clarity, if I complete one or two of these that is a successful month, the goal isn't to complete *everything*.
 
 [**2021**](#2021) -  [August](#august) [September](#september) [October](#october) [November](#november) [December](#december)
