@@ -26,6 +26,9 @@
             <div id="content-text" class="text">
                 <h1>{{ page.heading }}</h1>
                 {{ content }}
+                <br />
+                <hr />
+                {% include api/quote.html %}
             </div>
             <div id="navigation">
                 <details>
@@ -43,6 +46,8 @@
                 </details>
             </div>
         </div>
-    </div> 
+    </div>
+
+    {% include api/init.html %}
 </body>
 </html>
