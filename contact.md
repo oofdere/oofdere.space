@@ -7,7 +7,8 @@ description: "summary: oofdere@hey.com"
 squarethumb: contact.png
 ---
 
-## See my business card at: [takemy.cards/oofdere](https://takemy.cards/oofdere)
+<iframe width="auto" height="auto" src="https://takemy.cards/embed?slug=oofdere"></iframe>
+[takemy.cards/oofdere](https://takemy.cards/oofdere)
 
 Send an email to [oofdere@hey.com](mailto:oofdere@hey.com) or DM [@oofdere](https://twitter.com/oofdere) on Twitter. For professional communications, you may also message me on [LinkedIn](https://www.linkedin.com/in/oofd/).
 
