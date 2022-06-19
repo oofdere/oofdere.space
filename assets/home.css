@@ -1,6 +1,6 @@
 :root {
-    --bg-color-left: #005BBB;
-    --bg-color-right: #FFD500;
+    --bg-color-left: white;
+    --bg-color-right: black;
     --corner-margin: 2%;
 }
 
